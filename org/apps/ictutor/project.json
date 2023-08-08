@@ -17,8 +17,7 @@
         "tsConfig": "apps/ictutor/tsconfig.app.json",
         "assets": ["apps/ictutor/src/favicon.ico", "apps/ictutor/src/assets"],
         "styles": [
-          "apps/ictutor/src/styles.scss",
-          "apps/ictutor/src/theme.scss"
+          "apps/ictutor/src/styles.scss"
         ],
         "scripts": []
       },
